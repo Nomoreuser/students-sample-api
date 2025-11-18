@@ -1,0 +1,101 @@
+[
+  {
+    "studentId": "25-4821-109",
+    "fullName": "Aira Mae Villanueva",
+    "courseOrStrand": "Humanities and Social Sciences (HUMSS)",
+    "yearLevel": "Grade 12",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "25-1938-204",
+    "fullName": "John Michael Dizon",
+    "courseOrStrand": "Science, Technology, Engineering, and Mathematics (STEM)",
+    "yearLevel": "Grade 11",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "25-8374-310",
+    "fullName": "Princess Joy Mendez",
+    "courseOrStrand": "Accountancy, Business and Management (ABM)",
+    "yearLevel": "Grade 12",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "25-2569-415",
+    "fullName": "Kyle Adrian Bautista",
+    "courseOrStrand": "General Academic Strand (GAS)",
+    "yearLevel": "Grade 11",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "25-6093-502",
+    "fullName": "Rhea Anne Lopez",
+    "courseOrStrand": "Technical-Vocational-Livelihood Track - Information and Communication Technology (TVL - ICT)",
+    "yearLevel": "Grade 12",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "25-4720-617",
+    "fullName": "Mark Joseph Reyes",
+    "courseOrStrand": "Technical-Vocational-Livelihood Track - Home Economics (TVL - HE)",
+    "yearLevel": "Grade 11",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "25-3851-723",
+    "fullName": "Angelica Faith Soriano",
+    "courseOrStrand": "Science, Technology, Engineering, and Mathematics (STEM)",
+    "yearLevel": "Grade 12",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "25-9182-804",
+    "fullName": "Nathaniel Cruz",
+    "courseOrStrand": "Humanities and Social Sciences (HUMSS)",
+    "yearLevel": "Grade 11",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "25-7604-911",
+    "fullName": "Jasmine Nicole Tan",
+    "courseOrStrand": "Accountancy, Business and Management (ABM)",
+    "yearLevel": "Grade 12",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "25-5027-623",
+    "fullName": "Gabriel Sarmiento",
+    "courseOrStrand": "General Academic Strand (GAS)",
+    "yearLevel": "Grade 11",
+    "level": "Senior High"
+  },
+  {
+    "studentId": "C-1001",
+    "fullName": "Maria Santos",
+    "course": "Bachelor of Science in Computer Science",
+    "yearLevel": "1st Year",
+    "level": "College"
+  },
+  {
+    "studentId": "C-1002",
+    "fullName": "Juan Dela Cruz",
+    "course": "Bachelor of Science in Nursing",
+    "yearLevel": "2nd Year",
+    "level": "College"
+  },
+  {
+    "studentId": "C-1003",
+    "fullName": "Ana Reyes",
+    "course": "Bachelor of Elementary Education",
+    "yearLevel": "3rd Year",
+    "level": "College"
+  },
+  {
+    "studentId": "C-1004",
+    "fullName": "Mark Villanueva",
+    "course": "Bachelor of Science in Accountancy",
+    "yearLevel": "4th Year",
+    "level": "College"
+  }
+]
+
