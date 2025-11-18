@@ -1,7 +1,12 @@
 import students from "../students.json";
 
 export default function handler(req, res) {
-  const { id } = req.query; // get ?id= from URL
+  // CORS FIX
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+
+  const { id } = req.query;
 
   if (id) {
     const student = students.find(s => s.studentId === id);
@@ -11,6 +16,5 @@ export default function handler(req, res) {
     return res.status(200).json(student);
   }
 
-  // if no id, return all students
   res.status(200).json(students);
 }
