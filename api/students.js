@@ -1,10 +1,16 @@
-import students from "../students.json";
+import fs from "fs";
+import path from "path";
 
 export default function handler(req, res) {
-  // CORS FIX
+  // CORS
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "GET");
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+
+  // READ JSON SAFELY
+  const filePath = path.join(process.cwd(), "students.json");
+  const fileData = fs.readFileSync(filePath, "utf8");
+  const students = JSON.parse(fileData);
 
   const { id } = req.query;
 
