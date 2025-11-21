@@ -72,31 +72,32 @@
   {
     "studentId": "C-1001",
     "fullName": "Maria Santos",
-    "course": "Bachelor of Science in Computer Science",
+    "courseOrStrand": "Bachelor of Science in Computer Science",
     "yearLevel": "1st Year",
     "level": "College"
   },
   {
     "studentId": "C-1002",
     "fullName": "Juan Dela Cruz",
-    "course": "Bachelor of Science in Nursing",
+    "courseOrStrand": "Bachelor of Science in Nursing",
     "yearLevel": "2nd Year",
     "level": "College"
   },
   {
     "studentId": "C-1003",
     "fullName": "Ana Reyes",
-    "course": "Bachelor of Elementary Education",
+    "courseOrStrand": "Bachelor of Elementary Education",
     "yearLevel": "3rd Year",
     "level": "College"
   },
   {
     "studentId": "23-0324-276",
     "fullName": "Gerald Albon Carvajal",
-    "course": "Bachelor of Science in Accountancy",
+    "courseOrStrand": "Bachelor of Science in Accountancy",
     "yearLevel": "4th Year",
     "level": "College"
   }
 ]
+
 
 
